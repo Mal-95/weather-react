@@ -56,7 +56,7 @@ export default function Weather() {
             {" "}and is on {" "}
             <a href="https://github.com/Mal-95/weather-react" className="RepoLink" target="_blank" rel="noreferrer"><strong>GitHub</strong></a>
             {" "}and hosted on {" "}
-            <a href="https://app.netlify.com/sites/weather-react-app-challenge" target="_blank" rel="noreferrer"><strong>Netlify</strong></a>
+            <a href="https://weather-react-app-challenge.netlify.app/" target="_blank" rel="noreferrer"><strong>Netlify</strong></a>
         </footer>
       </div>
     );
